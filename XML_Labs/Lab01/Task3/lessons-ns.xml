@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<myns:educationPlan xmlns:myns="http://www.itmo.ru/xml/lessons" xmlns:srns="https://ru.wikipedia.org/programming">
+	<myns:course id="1">
+		<myns:name>Технологии программирования</myns:name>
+		<myns:teacher>Смольянинов А.В.</myns:teacher>
+		<myns:begin>28-03-2022</myns:begin>
+		<myns:end>15-04-2022</myns:end>
+		<myns:hours>50</myns:hours>
+		<srns:source>
+			<srns:bookname>Технологии программирования. Учебное пособие</srns:bookname>
+			<srns:bookauthor>Осипов Н.А.</srns:bookauthor>
+		</srns:source>
+	</myns:course>
+	
+	<myns:course id="2">
+		<myns:name>Введение в базы данных</myns:name>
+		<myns:teacher>Ямщиков Д.В.</myns:teacher>
+		<myns:begin>18-04-2022</myns:begin>
+		<myns:end>29-04-2022</myns:end>
+		<myns:hours>30</myns:hours>
+		<srns:source>
+			<srns:bookname>SQL и реляционная теория. Как грамотно писать код на SQL.</srns:bookname>
+			<srns:bookauthor>Дейт К.</srns:bookauthor>
+		</srns:source>
+	</myns:course>
+	
+	<myns:course id="3">
+		<myns:name>Программирование на C#</myns:name>
+		<myns:teacher>Смольянинов А.В.</myns:teacher>
+		<myns:begin>11-05-2022</myns:begin>
+		<myns:end>31-05-2022</myns:end>
+		<myns:hours>50</myns:hours>
+		<srns:source>
+			<srns:bookname>Язык программирования С#7 и платформы .NET и .NET Core</srns:bookname>
+			<srns:bookauthor id="1">Эндрю Троелсен</srns:bookauthor>
+			<srns:bookauthor id="2">Филипп Джепикс</srns:bookauthor>
+		</srns:source>
+	</myns:course>
+	
+	<myns:course id="4">
+		<myns:name>Transact-SQL и Разработка Microsoft SQL Server</myns:name>
+		<myns:teacher>Ямщиков Д.В.</myns:teacher>
+		<myns:begin>02-06-2022</myns:begin>
+		<myns:end>24-06-2022</myns:end>
+		<myns:hours>65</myns:hours>
+		<srns:source>
+			<srns:bookname>SQL и реляционная теория. Как грамотно писать код на SQL.</srns:bookname>
+			<srns:bookauthor>Дейт К.</srns:bookauthor>
+		</srns:source>
+	</myns:course>
+	
+	<myns:course id="5">
+		<myns:name>Разработка Windows-приложений на C#</myns:name>
+		<myns:teacher>Смольянинов А.В.</myns:teacher>
+		<myns:begin>27-06-2022</myns:begin>
+		<myns:end>18-07-2022</myns:end>
+		<myns:hours>50</myns:hours>
+		<srns:source>
+			<srns:bookname>Язык программирования С#7 и платформы .NET и .NET Core</srns:bookname>
+			<srns:bookauthor id="1">Эндрю Троелсен</srns:bookauthor>
+			<srns:bookauthor id="2">Филипп Джепикс</srns:bookauthor>
+		</srns:source>
+	</myns:course>
+	
+	<myns:course id="6">
+		<myns:name>Основы технологий разметки HTML, XML</myns:name>
+		<myns:teacher>Смольянинов А.В.</myns:teacher>
+		<myns:begin>20-07-2022</myns:begin>
+		<myns:end>27-07-2022</myns:end>
+		<myns:hours>20</myns:hours>
+		<srns:source>
+			<srns:bookname>Основы технологий XML. Учебное пособие</srns:bookname>
+			<srns:bookauthor>Одиночкина С.В.</srns:bookauthor>
+		</srns:source>
+	</myns:course>
+	
+	<myns:course id="7">
+		<myns:name>Технология ADO.NET</myns:name>
+		<myns:teacher>Кузьмин К.М.</myns:teacher>
+		<myns:begin>1-09-2022</myns:begin>
+		<myns:end>16-09-2022</myns:end>
+		<myns:hours>40</myns:hours>
+		<srns:source>
+			<srns:bookname>Язык программирования С#7 и платформы .NET и .NET Core</srns:bookname>
+			<srns:bookauthor id="1">Эндрю Троелсен</srns:bookauthor>
+			<srns:bookauthor id="2">Филипп Джепикс</srns:bookauthor>
+		</srns:source>
+	</myns:course>
+	
+	<myns:course id="8">
+		<myns:name>Разработка Web-приложений с использованием технологии ASP.NET</myns:name>
+		<myns:teacher>Осипов Н.А.</myns:teacher>
+		<myns:begin>19-09-2022</myns:begin>
+		<myns:end>07-10-2022</myns:end>
+		<myns:hours>50</myns:hours>
+		<srns:source>
+			<srns:bookname>Язык программирования С#7 и платформы .NET и .NET Core</srns:bookname>
+			<srns:bookauthor id="1">Эндрю Троелсен</srns:bookauthor>
+			<srns:bookauthor id="2">Филипп Джепикс</srns:bookauthor>
+		</srns:source>
+	</myns:course>
+	
+	<myns:course id="9">
+		<myns:name>Программирование на Java</myns:name>
+		<myns:teacher>Харатян А.С.</myns:teacher>
+		<myns:begin>10-10-2022</myns:begin>
+		<myns:end>11-11-2022</myns:end>
+		<myns:hours>65</myns:hours>
+		<srns:source>
+			<srns:bookname>Современный Java. Рецепты программирования</srns:bookname>
+			<srns:bookauthor>Кен Коузен</srns:bookauthor>
+		</srns:source>
+	</myns:course>
+	
+	<myns:course id="10">
+		<myns:name>СУБД Oracle SQL, PL/SQL</myns:name>
+		<myns:teacher>Климанов В.А.</myns:teacher>
+		<myns:begin>14-11-2022</myns:begin>
+		<myns:end>02-12-2022</myns:end>
+		<myns:hours>50</myns:hours>
+		<srns:source>
+			<srns:bookname>SQL и реляционная теория. Как грамотно писать код на SQL.</srns:bookname>
+			<srns:bookauthor>Дейт К.</srns:bookauthor>
+		</srns:source>
+	</myns:course>
+	
+	<myns:course id="11">
+		<myns:name>Программирование на Python</myns:name>
+		<myns:teacher>Кузьмин К.М.</myns:teacher>
+		<myns:begin>05-12-2022</myns:begin>
+		<myns:end>23-12-2022</myns:end>
+		<myns:hours>40</myns:hours>
+		<srns:source>
+			<srns:bookname>Программируем на Python</srns:bookname>
+			<srns:bookauthor>Майкл Доусон</srns:bookauthor>
+		</srns:source>
+	</myns:course>
+	
+	<myns:course id="12">
+		<myns:name>Программирование на C++</myns:name>
+		<myns:teacher>Осипов Н.А.</myns:teacher>
+		<myns:begin>10-01-2023</myns:begin>
+		<myns:end>31-01-2023</myns:end>
+		<myns:hours>65</myns:hours>
+		<srns:source>
+			<srns:bookname>Объектно-ориентированное программирование в С++</srns:bookname>
+			<srns:bookauthor>Р. Лафоре</srns:bookauthor>
+		</srns:source>
+	</myns:course>
+	
+	<myns:course id="13">
+		<myns:name>Разработка Web-приложений на HTML5, JavaScript и CSS3</myns:name>
+		<myns:teacher>Ямщиков Д.В.</myns:teacher>
+		<myns:begin>02-02-2023</myns:begin>
+		<myns:end>17-02-2023</myns:end>
+		<myns:hours>50</myns:hours>
+		<srns:source>
+			<srns:bookname>Изучаем программирование на JavaScript</srns:bookname>
+			<srns:bookauthor id="1">Эрик Фримен</srns:bookauthor>
+			<srns:bookauthor id="2">Элизабет Робсон</srns:bookauthor>
+		</srns:source>
+	</myns:course>
+</myns:educationPlan>

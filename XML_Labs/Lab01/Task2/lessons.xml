@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<educationPlan>
+	<course id="1">
+		<name>Технологии программирования</name>
+		<teacher>Смольянинов А.В.</teacher>
+		<begin>28-03-2022</begin>
+		<end>15-04-2022</end>
+		<hours>50</hours>
+	</course>
+	
+	<course id="2">
+		<name>Введение в базы данных</name>
+		<teacher>Ямщиков Д.В.</teacher>
+		<begin>18-04-2022</begin>
+		<end>29-04-2022</end>
+		<hours>30</hours>
+	</course>
+	
+	<course id="3">
+		<name>Программирование на C#</name>
+		<teacher>Смольянинов А.В.</teacher>
+		<begin>11-05-2022</begin>
+		<end>31-05-2022</end>
+		<hours>50</hours>
+	</course>
+	
+	<course id="4">
+		<name>Transact-SQL и Разработка Microsoft SQL Server</name>
+		<teacher>Ямщиков Д.В.</teacher>
+		<begin>02-06-2022</begin>
+		<end>24-06-2022</end>
+		<hours>65</hours>
+	</course>
+	
+	<course id="5">
+		<name>Разработка Windows-приложений на C#</name>
+		<teacher>Смольянинов А.В.</teacher>
+		<begin>27-06-2022</begin>
+		<end>18-07-2022</end>
+		<hours>50</hours>
+	</course>
+	
+	<course id="6">
+		<name>Основы технологий разметки HTML, XML</name>
+		<teacher>Смольянинов А.В.</teacher>
+		<begin>20-07-2022</begin>
+		<end>27-07-2022</end>
+		<hours>20</hours>
+	</course>
+	
+	<course id="7">
+		<name>Технология ADO.NET</name>
+		<teacher>Кузьмин К.М.</teacher>
+		<begin>1-09-2022</begin>
+		<end>16-09-2022</end>
+		<hours>40</hours>
+	</course>
+	
+	<course id="8">
+		<name>Разработка Web-приложений с использованием технологии ASP.NET</name>
+		<teacher>Осипов Н.А.</teacher>
+		<begin>19-09-2022</begin>
+		<end>07-10-2022</end>
+		<hours>50</hours>
+	</course>
+	
+	<course id="9">
+		<name>Программирование на Java</name>
+		<teacher>Харатян А.С.</teacher>
+		<begin>10-10-2022</begin>
+		<end>11-11-2022</end>
+		<hours>65</hours>
+	</course>
+	
+	<course id="10">
+		<name>СУБД Oracle SQL, PL/SQL</name>
+		<teacher>Климанов В.А.</teacher>
+		<begin>14-11-2022</begin>
+		<end>02-12-2022</end>
+		<hours>50</hours>
+	</course>
+	
+	<course id="11">
+		<name>Программирование на Python</name>
+		<teacher>Кузьмин К.М.</teacher>
+		<begin>05-12-2022</begin>
+		<end>23-12-2022</end>
+		<hours>40</hours>
+	</course>
+	
+	<course id="12">
+		<name>Программирование на C++</name>
+		<teacher>Осипов Н.А.</teacher>
+		<begin>10-01-2023</begin>
+		<end>31-01-2023</end>
+		<hours>65</hours>
+	</course>
+	
+	<course id="13">
+		<name>Разработка Web-приложений на HTML5, JavaScript и CSS3</name>
+		<teacher>Ямщиков Д.В.</teacher>
+		<begin>02-02-2023</begin>
+		<end>17-02-2023</end>
+		<hours>50</hours>
+	</course>
+</educationPlan>
